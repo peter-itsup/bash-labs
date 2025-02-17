@@ -1,0 +1,6 @@
+word
+alfa
+two
+hello
+robot
+charlie

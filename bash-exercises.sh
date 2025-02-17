@@ -35,5 +35,13 @@ done
 '
 
 # opg 5
+: '
+echo "Enter filename of file to sort"
+read filename 
+sort $filename >> sorted.txt
+echo "Saved to file 'sorted.txt'"
+'
+
+# opg 6 
 
 
